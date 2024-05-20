@@ -41,8 +41,7 @@ const SearchClient = (props: any) => {
   return (
     <div
       style={{
-        background:
-          "linear-gradient(90deg, rgba(0,0,0,1) 35%, rgba(121,9,9,1) 75%, rgba(255,0,0,1) 100%)",
+        background: "linear-gradient(269.85deg, #54151C 0%, #121212 54.89%)",
         padding: "120px",
         marginLeft: "-234px",
         marginRight: "-234px",
